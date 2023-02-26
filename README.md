@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=18&duration=2000&pause=50&multiline=true&width=500&height=80&lines=Alex+Dvornikov;Researcher+%7C+Teacher+%7C+PhD;University+of+Hawaii+)](https://git.io/typing-svg)
 
 <!--
 **alexdvornikov/alexdvornikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
